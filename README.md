@@ -1,11 +1,17 @@
 # Привет, я Григорий! 👋
-Я занимаюсь ЛВС и Мониторингом процессов добычи. 
-- 🔭 Сейчас я работаю над совершенствованием своих навыков.
-- 🌱 Я изучаю на данный момент Python, React, Electron
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,python,electron,git,docker)](https://skillicons.dev)
+# 💫 About Me:
+## 🚀 Немного о бо мне<br><br>* 🔭 **Я сейчас работаю над:** собственными проектами на GitHub и совершенствованием архитектуры кода.<br>* 👯 **Я открыт для совместной работы над:** интересными Open Source проектами или амбициозными стартапами.<br>* 🤝 **Мне нужна помощь с:** глубоким пониманием алгоритмов и тонкостями DevOps процессов.<br>* 🌱 **Сейчас я активно изучаю:** новые фреймворки и лучшие практики написания чистого кода.<br>* 💬 **Спрашивайте меня о:** разработке, технологиях, которые я использую, или о том, как я решал ту или иную задачу в моих репозиториях.<br>* ⚡ **Забавный факт:** превращаю кофе в работающий код, а баги — в фичи (иногда случайно).
 
-### Моя статистика GitHub:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=SyrexBlack&show_icons=true&theme=radical)
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=SyrexBlack&layout=compact&theme=radical)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SyrexBlack&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SyrexBlack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyrexBlack&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SyrexBlack&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
